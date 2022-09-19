@@ -63,5 +63,8 @@ for url_of_item in get_image_url("tulip"):
     sleep(1)
 
 
+print(2)
+
+
 
 
